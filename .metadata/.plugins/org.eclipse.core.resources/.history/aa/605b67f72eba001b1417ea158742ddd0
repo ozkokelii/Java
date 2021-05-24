@@ -1,0 +1,19 @@
+package degiskenleer;
+
+public class StringlerOrnek {
+	
+	public static void main(String []args) {
+		String a = "Merhaba";
+		String b = " ben";
+		String c = " java";
+		String d = " öðreniyorum";
+		char e = '?';
+		double f = 3.14;
+		String toplam = a+b+c+d+e+f;
+		System.out.println(toplam);
+		String x = "Hebele"+"hübele"+"fýþfýþ";
+		System.out.println(x);
+		
+	}
+
+}

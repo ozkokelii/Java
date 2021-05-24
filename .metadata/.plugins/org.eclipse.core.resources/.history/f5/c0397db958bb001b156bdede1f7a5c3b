@@ -1,0 +1,22 @@
+package degiskenleer;
+
+import java.util.Scanner;
+
+public class ScannerlarOrnek {
+	public static void main(String[] args) {
+		 
+		Scanner scanner = new Scanner(System.in);//line=string için int=int double=double char=char 
+		
+		if(scanner.hasNextInt()) {
+			
+			int sayi = scanner.nextInt();
+
+			System.out.println("Yaþýnýz : " + sayi);
+		}else {
+			
+			System.out.println("Lütfen sayý giriniz : ");
+		}
+		
+	}
+
+}

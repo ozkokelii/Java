@@ -1,0 +1,8 @@
+package ee;
+
+public class endeks {
+	public static void main(String[] args) {
+		System.out.println("hello");	
+	}
+
+}

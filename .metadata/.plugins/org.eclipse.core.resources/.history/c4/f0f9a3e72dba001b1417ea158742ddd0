@@ -1,0 +1,11 @@
+package degiskenleer;
+
+public class String {
+	
+	public static void main(String []args) {
+		String a = "Merhaba";
+		String b = "ben";
+		String c = "java "
+	}
+
+}

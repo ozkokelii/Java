@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;degiskenleer.String.java&apos; to &apos;StringlerOrnek.java&apos;&#x0D;&#x0A;- Original project: &apos;degiskenleer&apos;&#x0D;&#x0A;- Original element: &apos;degiskenleer.String.java&apos;&#x0D;&#x0A;- Renamed element: &apos;degiskenleer.StringlerOrnek.java&apos;" description="Rename compilation unit &apos;String.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;degiskenleer{String.java" name="StringlerOrnek.java" references="false" stamp="1621599188787" version="1.0"/>
+</session>
