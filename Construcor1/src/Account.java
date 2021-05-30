@@ -9,10 +9,23 @@ public class Account {
 	
 	private String TelefonNo;
 	
+	public Account(String isim, String email, String TelefonNo) {
+		
+		this.isim = isim;
+		this.email = email;
+		this.TelefonNo = TelefonNo;
+		
+	}
+	
 	public Account() {
 		
-		System.out.println("Kendi yazdýðýmýz constructor...");
+		/*this.hesapNo = "Bilgi Yok";
+		this.bakiye = 00.0;
+		this.isim = "Bilgi Yok";
+		this.email = "Bilgi Yok";
+		this.TelefonNo = "Bilgi Yok";*/
 		
+		this("Bilgi Yok",00.0,"Bilgi Yok","Bilgi Yok","Bilgi Yok");
 	}
 	public Account(String hesapNo, double bakiye, String isim,String email,String TelefonNo) {
 		
