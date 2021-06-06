@@ -17,7 +17,7 @@ public class Ucgen extends Sekil{
         double u = (a+b+c)/2.0;
         
         double alan = Math.sqrt(u*(u-a) + u*(u-b) + u*(u-c));
-        System.out.println(getIsim() + "int alanı " + alan);
+        System.out.println(getIsim() + "in alanı " + alan);
     }
     
     
